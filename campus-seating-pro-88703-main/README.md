@@ -12,7 +12,7 @@ Campus Seating Pro is a web application designed to help manage and optimize sea
 
 ## Tech Stack
 - Frontend: React, Vite, Tailwind CSS
-- Backend: Node.js (optional, if API/server is included)
+- Backend: Node.js
 - State Management: (e.g., Redux, Context API)
 - Linting: ESLint
 - Build Tool: Vite
@@ -48,4 +48,4 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, contact [your-email@example.com].
+For questions or support, contact [kalyankhg@gmail.com].
